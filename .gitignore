@@ -1,2 +1,4 @@
 *.pyc
+*.fds
+*.json
 /__pycache__
